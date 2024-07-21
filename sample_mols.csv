@@ -1,3 +1,4 @@
+id, smiles
 0,*C(=O)[C@H](CCCCNC(=O)OCCOC)NC(=O)OCCOC
 1,[C@@H]1([C@@H]([C@@H]([C@H]([C@@H]([C@@H]1Cl)Cl)Cl)Cl)Cl)Cl
 2,[C@H]([C@@H]([C@@H](C(=O)[O-])O)O)([C@H](C(=O)[O-])O)O
